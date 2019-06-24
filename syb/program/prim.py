@@ -1,6 +1,5 @@
-# -*- coding: utf-8 -*-
-# author:pcat
-# http://pcat.cnblogs.com
+# -*- coding:utf-8 -*-
+
 import gmpy2
 
 # 节点，包含元素和步数
